@@ -46,3 +46,4 @@ Git | GitHub | Postman | Docker
 ---
 
 ## 🔥 Top Languages:
+Java,Javascript,mySql
