@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rachna </h1>
+**<h1 align="center">Hi 👋, I'm Rachna </h1>
 <h3 align="center">💻 Backend Developer | Software Developer</h3>
 
 ---
@@ -47,3 +47,4 @@ Git | GitHub | Postman | Docker
 
 ## 🔥 Top Languages:
 Java,Javascript,mySql
+**
